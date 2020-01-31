@@ -8,5 +8,8 @@ class ByteSize {
         byte min = Byte.MIN_VALUE;
         System.out.println("Min value of Byte: " + min);
 
+        byte size = Byte.SIZE;
+        System.out.println("Size of Byte: " + size);
+
     }
 }
