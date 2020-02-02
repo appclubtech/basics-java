@@ -10,7 +10,7 @@ class GreaterLessEqual {
         }
 
         String toppings[] = { "Sprinkles", "M&M", "Choclate Chip", "Dry Fruits" };
-        if (flavors.length > 4) {
+        if (toppings.length > 4) {
             System.out.println("We have enough toppings");
         } else {
             System.out.println("We need more toppings!");
